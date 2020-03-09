@@ -1,0 +1,11 @@
+#RedBox,
+#BlueBox {
+  height: 256px;
+  width: 256px;
+}
+#RedBox {
+  background-color: #f00;
+}
+#BlueBox {
+  background-color: #004eff;
+}
