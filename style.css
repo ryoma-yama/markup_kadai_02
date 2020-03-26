@@ -1,11 +1,10 @@
-#RedBox,
-#BlueBox {
+.box {
   height: 256px;
   width: 256px;
 }
-#RedBox {
+.red {
   background-color: #ff0000;
 }
-#BlueBox {
+.blue {
   background-color: #004eff;
 }
